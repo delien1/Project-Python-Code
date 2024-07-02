@@ -1,0 +1,141 @@
+Cities,Latitude,Longitude,Start_city,End_city,Distances (kilometers)
+Cape Town,-33.916238542616234,18.422555014936027,Cape Town,University of the Western Cape (UWC),21.8
+Observatory,-33.9345,18.4543,Cape Town,Observatory,5
+Newlands,-33.97892311646357,18.44819603839164,Cape Town,Camp Bay,6.7
+Constantia,-34.02158858600939,18.439993926691507,Cape Town,Observatory,5.1
+Wynberg,-34.008296635240754,18.467243272937477,Cape Town,Sea Point,4.8
+Claremont,-33.98604651902349,18.47266946554379,Cape Town,Table View,19
+Sea Point,-33.91703141882901,18.388568493629126,Cape Town,Bellville,20
+Table View,-33.821876056157556,18.492138278143443,Cape Town,Kempenville,20
+Milnerton,-33.86687509814964,18.53562241057766,Cape Town,Stellenbosch,44
+Blaauwberg,-33.82797465949754,18.50246546022581,Observatory,Cape Town,5
+Hout Bay,-34.038367135228256,18.349470520432025,Observatory,Newlands,6
+Fish Hoek,-34.13381255066271,18.42313258270119,Observatory,Claremont,6
+Bellville,-33.893908989629345,18.628340941450343,Observatory,Rondebosch,4
+Durbanville,-33.82764258801154,18.65212169012901,Observatory,Mowbray,3
+Somerset West,-34.075690207020905,18.84274091305864,Newlands,Observatory,6
+Simons Town,-34.19329663218895,18.43871544732048,Newlands,Claremont,3.1
+Stellenbosch,-33.93185274397466,18.8562560657256,Newlands,Wynberg,4.4
+Muizenberg,-34.10726461456983,18.470559244594554,Newlands,Constantia,8.8
+University of Cape Town (UCT),-33.957631807516535,18.62742874304422,Newlands,Rondebosch,3.7
+University of the Western Cape (UWC),-33.932974209721,18.62742874304422,Newlands,Muizenberg,14.8
+Rondebosch,-33.9674121511884,18.46661251440095,Constantia,Wynberg,5.2
+Russel,-33.926687157976595,18.43532571875443,Constantia,Newlands,8.8
+Koeberg Rd,-33.88755516754871,18.494682026210477,Constantia,Hout Bay,10.5
+Belhar,-33.94837938657596,18.59900525450159,Constantia,Claremont,8
+Mowbray,-33.94893464373641,18.485057029635552,Constantia,Fish Hoek,17.9
+Polkadraai Rd,-33.96089533806072,18.758341915817304,Constantia,Muizenberg,10
+Kempenville,-33.901075057912045, 18.636462349743788,Wynberg,Russel,21
+Strand,-34.11226505618873,18.8509158473707,Wynberg,Claremont,3
+Green Point ,-33.90697885895539, 18.40411388797455,Wynberg,Newlands,4.4
+Blaauwberg,-33.8100656964679, 18.476499938589743,Wynberg,Constantia,5.1
+Cape Point,-34.250432907619, 18.425356160278916,Wynberg,Muizenberg,10.8
+Camp Bay,-33.951221701433916,18.38249378600005,Wynberg,Fish Hoek,17.5
+,,,Wynberg,Polkadraai Rd,37.6
+,,,Claremont,University of Cape Town (UCT),4.9
+,,,Cape Town,Wynberg,3
+,,,Claremont,Newlands,3.1
+,,,Claremont,Observatory,6
+,,,Claremont,Rondebosch,2.9
+,,,Claremont,Russel,26
+,,,Claremont,Muizenberg,13
+,,,Sea Point,Cape Town,4.3
+,,,Sea Point,Camp Bay,5.2
+,,,Table View,Russel,33
+,,,Table View,Milnerton,9
+,,,Table View,Cape Town,19
+,,,Table View,Blaauwberg,1.5
+,,,Table View,Koeberg Rd,6.8
+,,,Milnerton,Bellville,17.7
+,,,Milnerton,Table View,9
+,,,Milnerton,Koeberg Rd,4.9
+,,,Milnerton,Bellville,11.9
+,,,Milnerton,Stellenbosch,37.4
+,,,Blaauwberg,Table View,1.5
+,,,Blaauwberg,Cape Town,19.1
+,,,Blaauwberg,Durbanville,19.7
+,,,Blaauwberg,Koeberg Rd,8.2
+,,,Hout Bay,Constantia,10.5
+,,,Hout Bay,Camp Bay,12.5
+,,,Hout Bay,Wynberg,14.5
+,,,Hout Bay,Fish Hoek,18.9
+,,,Fish Hoek,Muizenberg,10.8
+,,,Fish Hoek,Simons Town,8.5
+,,,Fish Hoek,Constantia,17.9
+,,,Fish Hoek,Hout Bay,18.9
+,,,Bellville,Durbanville,8.1
+,,,Bellville,Cape Town,20.1
+,,,Bellville,Milnerton,11.9
+,,,Bellville,University of the Western Cape (UWC),5.3
+,,,Bellville,Stellenbosch,25.9
+,,,Bellville,Kempenville,1.1
+,,,Bellville,Muizenberg,31.4
+,,,Durbanville,Blaauwberg,20
+,,,Durbanville,Bellville,8.1
+,,,Durbanville,Stellenbosch,26.1
+,,,Durbanville,Blaauwberg,19.7
+,,,Durbanville,University of the Western Cape (UWC),13.2
+,,,Durbanville,Muizenberg,39.3
+,,,Somerset West,Stellenbosch,18.1
+,,,Somerset West,Strand,6.3
+,,,Somerset West,Mowbray,38.7
+,,,Somerset West,Durbanville,37.4
+,,,Somerset West,Bellville,30
+,,,Somerset West,Muizenberg,37.8
+,,,Simons Town,Fish Hoek,8.5
+,,,Simons Town,Cape Point,12.4
+,,,Stellenbosch,Somerset West,18.1
+,,,Stellenbosch,Durbanville,26.1
+,,,Stellenbosch,Bellville,25.9
+,,,Stellenbosch,Polkadraai Rd,10.3
+,,,Stellenbosch,Muizenberg,42.9
+,,,Muizenberg,Polkadraai Rd,38
+,,,Muizenberg,Fish Hoek,10.8
+,,,Muizenberg,Constantia,11.5
+,,,Muizenberg,Claremont,13
+,,,Muizenberg,Wynberg,10.8
+,,,Muizenberg,Newlands,14.8
+,,,Muizenberg,Stellenbosch,42.9
+,,,University of Cape Town (UCT),Rondebosch,2.2
+,,,University of Cape Town (UCT),Claremont,4.9
+,,,University of Cape Town (UCT),Mowbray,0.75
+,,,University of the Western Cape (UWC),Bellville,5.3
+,,,University of the Western Cape (UWC),Durbanville,13.2
+,,,University of the Western Cape (UWC),Cape Town,21.8
+,,,University of the Western Cape (UWC),Belhar,2.2
+,,,University of the Western Cape (UWC),Muizenberg,27.9
+,,,Rondebosch,Observatory,4
+,,,Rondebosch,University of Cape Town (UCT),2.2
+,,,Rondebosch,Claremont,2.9
+,,,Rondebosch,Mowbray,1.9
+,,,Russel,Wynberg,21
+,,,Russel,Hout Bay,22
+,,,Russel,Claremont,26
+,,,Russel,Table View,33
+,,,Russel,Polkadraai Rd,8
+,,,Koeberg Rd,Blaauwberg,5.3
+,,,Koeberg Rd,Table View,6.8
+,,,Koeberg Rd,Milnerton,4.9
+,,,Koeberg Rd,Blaauwberg,8.2
+,,,Koeberg Rd,Polkadraai Rd,31
+,,,Belhar,University of the Western Cape (UWC),2.2
+,,,Belhar,Polkadraai Rd,13
+,,,Mowbray,Observatory,3
+,,,Mowbray,Rondebosch,1.9
+,,,Mowbray,Somerset West,38.7
+,,,Mowbray,University of Cape Town (UCT),0.75
+,,,Polkadraai Rd,Russel,8
+,,,Polkadraai Rd,Stellenbosch,10.3
+,,,Polkadraai Rd,Kempenville,16.2
+,,,Polkadraai Rd,Belhar,13
+,,,Polkadraai Rd,Muizenberg,38
+,,,Kempenville,Bellville,1.1
+,,,Kempenville,Polkadraai Rd,16.2
+,,,Kempenville,Cape Town,32
+,,,Strand,Somerset West,6.3
+,,,Blaauwberg,Koeberg Rd,5.3
+,,,Blaauwberg,Durbanville,20
+,,,Camp Bay,Cape Town,6.7
+,,,Cape Point,Simons Town,12.4
+,,,Camp Bay,Sea Point,5.2
+,,,Camp Bay,Hout Bay,12.5
